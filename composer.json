@@ -1,0 +1,9 @@
+{
+    "name": "gracious/bestseller",
+    "description": "Headless API based product bestseller endpoint.",
+    "require": {},
+    "repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/gracious/"},
+        {"packagist.org": false}
+    ]
+}
